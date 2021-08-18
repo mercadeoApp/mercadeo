@@ -1,0 +1,9 @@
+
+{
+    "watch":["SRC"],
+    "ext":"ts",
+    "ignore":[
+        "SRC/**/*.spec.ts"
+    ],
+    "exec":"ts-node"
+}
